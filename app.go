@@ -1,9 +1,10 @@
 package admin
 
-import "github.com/go-gorf/gorf"
+import (
+	"github.com/go-gorf/gorf"
+)
 
 func setup() error {
-
 	return nil
 }
 
