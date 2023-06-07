@@ -2,7 +2,7 @@ module github.com/go-gorf/admin
 
 go 1.20
 
-replace github.com/go-gorf/gorf => ../gorf
+//replace github.com/go-gorf/gorf => ../gorf
 
 require (
 	github.com/gin-gonic/gin v1.9.0
