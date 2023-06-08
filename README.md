@@ -15,10 +15,10 @@ var apps = []gorf.GorfApp{
 ```
 ### Install frontend dependencies
 ```bash
-cd frontend && npm install
+cd ui && npm install
 ```
 
 ### Build frontend
 ```bash
-cd frontend && npm run build
+cd ui && npm run build
 ```
