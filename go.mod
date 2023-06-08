@@ -6,7 +6,7 @@ replace github.com/go-gorf/gorf => ../gorf
 
 require (
 	github.com/gin-gonic/gin v1.9.0
-	github.com/go-gorf/gorf v0.0.11
+	github.com/go-gorf/gorf v0.0.13
 )
 
 require (

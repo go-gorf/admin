@@ -8,8 +8,9 @@ func setup() error {
 	return nil
 }
 
-var AdminApp = gorf.GorfBaseApp{
-	Name:         "gorf-admin",
+var App = gorf.BaseApp{
+	Title:        "Gorf admin",
+	Info:         "Gorf Admin Panel",
 	RouteHandler: Urls,
 	SetUpHandler: setup,
 }
